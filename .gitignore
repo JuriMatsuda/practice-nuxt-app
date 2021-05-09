@@ -26,6 +26,7 @@ sw.*
 # Optional eslint cache
 .eslintcache
 
+.envrc
 
 cypress/integration/examples
 cypress/videos
